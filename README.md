@@ -1,6 +1,9 @@
 # DDS-CAD DOC 
 Purpose: basic info collection
 
+## Links
+[DDS CAD 16] (https://docs.dds-cad.net/16/ger/manual/Default_Left.htm)
+
 ## Shortcuts
 ### View
 | Keys | Purpose |
