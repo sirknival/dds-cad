@@ -7,10 +7,10 @@ Purpose: basic info collection
 |------|------|
 |Ctrl + &#10142;| Move view to right|
 |Ctrl + &#129044; | Movie view to left|
-|Ctrl + &#129044; | Movie view upwards|
-|Ctrl + &#129044; | Movie view downwards|
-|Ctrl + &#129044; | Zoom in|
-|Ctrl + &#129044; | Zoom out|
+|Ctrl + &#129045; | Movie view upwards|
+|Ctrl + &#129047; | Movie view downwards|
+|Ctrl + PageDown | Zoom in|
+|Ctrl + PageUp | Zoom out|
 
 ### Plan drawing
 | Keys | Purpose |
