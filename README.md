@@ -15,7 +15,7 @@ Purpose: basic info collection
 ### Plan drawing
 | Keys | Purpose |
 |------|------|
-|Entf | Change height |
+|Delete | Change height |
 |Ctrl + Shift + LeftMouse | Rotate object clockwise |
 |Ctrl + Shift + RightMouse | Rotate object counterclockwise |
 
