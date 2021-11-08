@@ -19,7 +19,12 @@ Purpose: basic info collection
 |Ctrl + Shift + LeftMouse | Rotate object clockwise |
 |Ctrl + Shift + RightMouse | Rotate object counterclockwise |
 
-
+### Basic functionality
+| Keys | Purpose |
+|------|------|
+|Ctrl + M | Measure |
+|Ctrl + L | Open Layer dialogue |
+|Ctrl + F| Search and change attributes |
 
 
 
