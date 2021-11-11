@@ -39,6 +39,19 @@ Purpose: basic info collection
 |Ctrl + Shift + C|Copy with specifies reference point|
 |Ctrl + J| Open Project Manager Menu|
 
+## Procedures
+### Setting up a new project
+* Import .dwg
+* Set origo
+* Set dimenensions to right size (measure kown length)
+* Set room height
+
+### Create a print 
+* Create a viewport with matching size
+* Import a legend
+* Import the viewpoint
+* Import plan head
+
 
 
 
